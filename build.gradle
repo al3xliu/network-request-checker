@@ -41,7 +41,7 @@ dependencies {
 	compileOnly "com.google.errorprone:javac:9+181-r4173-1"
 
 	// Testing
-	testImplementation "junit:junit:4.13"
+	testImplementation "junit:junit:4.13.2"
 	testCompile "org.checkerframework:framework-test:${versions.checkerFramework}"
 	testCompile "org.apache.httpcomponents:httpclient:4.5.2"
 	testCompile "org.springframework:spring-web:5.2.4.RELEASE"
